@@ -39,3 +39,8 @@ Direct link: https://www.cs.ox.ac.uk/jeremy.gibbons/publications/proyo.pdf
 
 This is the `zipWith3Grate` function from pg 84:23 of the prior reference
 
+
+### sksk-equals-b.png
+
+This shows how the [**B** combinator](https://en.wikipedia.org/wiki/B,_C,_K,_W_system) can be derived from the [**SKI** combinators](https://en.wikipedia.org/wiki/SKI_combinator_calculus), in particular **B = S(KS)K**, found on Wikipedia [here](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence#The_composition_combinator_seen_as_a_proof_of_(%CE%B2_%E2%86%92_%CE%B1)_%E2%86%92_(%CE%B3_%E2%86%92_%CE%B2)_%E2%86%92_%CE%B3_%E2%86%92_%CE%B1_in_Hilbert-style_logic)
+
