@@ -37,7 +37,7 @@ Functor instances for `State s` and `Store s`:
   <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/fmap-state-s-store-s.png" width="500" alt="fmap for State s, Store s" />
 </p>
 
-Here are `fmap` generally and the Yoneda Lemma:
+Here is `fmap` generally, and the Yoneda Lemma:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/yoneda.png" width="500" alt="fmap and yoneda" />
