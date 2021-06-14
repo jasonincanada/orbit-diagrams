@@ -58,8 +58,8 @@ The functor and monad instances for `s ->` are elegantly rendered in orbit diagr
 I've sketched out a few more ideas below (the above images are included here as well):
 
   - [Function composition](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/composition.png)
-  - [Monad instance (`bind`) for continuation passing functor](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/continuation-passing-style-monad-bind.png)
-  - [`fmap` for continuation passing functor](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/continuation-passing-style.png)
+  - [Monad instance (`bind`) for continuation-passing functor](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/continuation-passing-style-monad-bind.png)
+  - [`fmap` for continuation-passing functor](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/continuation-passing-style.png)
   - [`fmap` for `State s`, `Store s`](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/fmap-state-s-store-s.png)
   - [`fmap`, `bind`, `join` for `s ->`](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/function-from-s-functor-monad.png)
   - [`join` for `State s`](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/state-s-%CE%BC.jpg)
