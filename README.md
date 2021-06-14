@@ -10,7 +10,7 @@ Here is the Haskell representation of the type of the ```(.)``` function composi
 (.) :: (b -> c) -> (a -> b) -> a -> c
 ```
 
-Here is the same thing in orbit diagrams:
+Here is the same thing as an orbit diagram:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/composition.png" width="400" alt="function composition" />
