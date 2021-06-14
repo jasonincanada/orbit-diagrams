@@ -25,7 +25,7 @@ One way to narrate these diagrams is to consider the plates as containing types 
 Here is the **μ** (`join`) instance for the `State s` monad:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/state-s-%CE%BC.jpg" width="400" alt="join for State s" />
+  <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/state-s-%CE%BC.jpg" width="500" alt="join for State s" />
 </p>
 
 
