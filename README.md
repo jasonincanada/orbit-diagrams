@@ -13,7 +13,7 @@ Here is the Haskell representation of the type of the ```(.)``` function composi
 Here is the same thing in orbit diagrams:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/composition.png" width="400" alt="function composition" />
+  <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/composition.png" width="400" alt="function composition" />
 </p>
 
 
@@ -25,7 +25,7 @@ One way to narrate these diagrams is to consider the plates as containing types 
 Here is the **μ** (`join`) instance for the `State s` monad:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/state-s-%CE%BC.jpg" width="500" alt="join for State s" />
+  <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/state-s-%CE%BC.jpg" width="500" alt="join for State s" />
 </p>
 
 
@@ -34,13 +34,13 @@ Here is the **μ** (`join`) instance for the `State s` monad:
 Functor instances for `State s` and `Store s`:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/fmap-state-s-store-s.png" width="500" alt="fmap for State s, Store s" />
+  <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/fmap-state-s-store-s.png" width="500" alt="fmap for State s, Store s" />
 </p>
 
 Here is `fmap` generally, and the Yoneda Lemma:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/yoneda.png" width="500" alt="fmap and yoneda" />
+  <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/yoneda.png" width="500" alt="fmap and yoneda" />
 </p>
 
 
