@@ -13,7 +13,7 @@ Here is the Haskell representation of the type of the ```(.)``` function composi
 Here is the same thing in orbit diagrams:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/composition.png" width="500" alt="function composition" />
+  <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/composition.png" width="400" alt="function composition" />
 </p>
 
 
