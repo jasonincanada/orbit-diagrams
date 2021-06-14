@@ -17,7 +17,7 @@ Here is the same thing as an orbit diagram:
 </p>
 
 
-One way to narrate these diagrams is to consider the plates as containing types that are "guarded" by the orbiting type, and you need that guard type somewhere in the environment already in order to "unlock" the codomain type.  Once unlocked, that codomain type is now in the environment and can unlock the same type wherever it's found guarding another plate. An important constraint is that a plate type cannot unlock itself even if it matches the guard type
+One way to narrate these diagrams is to consider the plates as containing types that are "guarded" by the orbiting type, and you need that orbiting type somewhere in the environment already in order to "unlock" the plate type.  Once unlocked, that plate type is now in the environment and can unlock the same type wherever it's found guarding another plate. An important constraint is that a plate type cannot unlock itself even if it matches the guard type
 
 
 ### μ for `State s`
