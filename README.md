@@ -67,7 +67,7 @@ I've sketched out a few more ideas below (the above images are included here as 
 
 **Lenses:**
 
-  - [Concrete symmetric lenses](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/profunctors-symmetric-lens.png) (derivation by [Boisseau/Gibbons](https://dl.acm.org/doi/10.1145/3236779))
+  - [Concrete symmetric lenses](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/profunctors-symmetric-lens.png) (symmetric derivation due to [Boisseau/Gibbons](https://dl.acm.org/doi/10.1145/3236779))
   - [Concrete grates](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/concrete-grate.png)
 
 **Logic:**
