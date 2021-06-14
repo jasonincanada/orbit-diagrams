@@ -29,5 +29,22 @@ Here is the **μ** (`join`) instance for the `State s` monad:
 </p>
 
 
-I've sketched out a few more ideas in the files above. The notation and arrangements are mine but the equations and proofs they represent are taken from various sources, which I've listed in [references.md](references.md)
+### Functors and Yoneda
+
+Functor instances for `State s` and `Store s`:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/fmap-state-s-store-s.png" width="500" alt="fmap for State s, Store s" />
+</p>
+
+Here are `fmap` generally and the Yoneda Lemma:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/yoneda.png" width="500" alt="fmap and yoneda" />
+</p>
+
+
+### Misc
+
+I've sketched out a few more ideas and included them in this repo. The notation and arrangements are mine but the equations and proofs they represent are taken from various sources, which I've listed in [references.md](references.md)
 
