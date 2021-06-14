@@ -55,5 +55,27 @@ The functor and monad instances for `s ->` are elegantly rendered in orbit diagr
 
 ### Misc
 
-I've sketched out a few more ideas and included them in this repo. The notation and arrangements are mine but the equations and proofs they represent are taken from various sources, which I've listed in [references.md](references.md)
+I've sketched out a few more ideas below:
+
+  - [Function composition](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/composition.png)
+  - [Monad instance (`bind`) for continuation passing functor](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/continuation-passing-style-monad-bind.png)
+  - [`fmap` for continuation passing functor](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/continuation-passing-style.png)
+  - [`fmap` for `State s`, `Store s`](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/fmap-state-s-store-s.png)
+  - [`fmap`, `bind`, `join` for `s ->`](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/function-from-s-functor-monad.png)
+  - [`join` for `State s`](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/state-s-%CE%BC.jpg)
+  - [Yoneda Lemma](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/yoneda.png)
+
+**Lenses:**
+
+  - [Concrete symmetric lenses](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/profunctors-symmetric-lens.png)
+  - [Concrete grates](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/concrete-grate.png)
+
+**Logic:**
+
+  - [**B = S(KS)K** in combinator logic](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/sksk-equals-b.png)
+
+
+## References
+
+The orbit diagrams notation and arrangements are my ideas but the equations and proofs they represent are from various sources. I've listed them in [references.md](references.md)
 
