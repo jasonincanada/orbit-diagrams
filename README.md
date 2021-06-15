@@ -77,5 +77,5 @@ I've sketched out a few more ideas below:
 
 ## References
 
-The orbit diagrams notation and arrangements are my ideas but the equations and proofs they represent are from various sources. I've listed them in [references.md](references.md)
+The orbit diagrams notation and arrangements are my ideas, but the equations and proofs they represent are from various sources. I've listed them in [references.md](references.md)
 
