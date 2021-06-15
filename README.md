@@ -46,7 +46,7 @@ Here is `fmap` generally, and the Yoneda Lemma:
 
 ### Function from s
 
-The functor and monad instances for `s ->` are elegantly rendered in orbit diagram notation.  Here is the functor instance of `s ->`, and both `bind` and `join` implementations of the `s ->` monad:
+The functor and monad instances for `s ->` are elegantly rendered in orbit diagram notation.  Here is the functor instance for `s ->`, and both `bind` and `join` implementations of the `s ->` monad:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/function-from-s-functor-monad.png" width="500" alt="functor/monad for s->" />
