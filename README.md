@@ -1,6 +1,6 @@
 # orbit-diagrams
 
-Orbit diagrams are a new notation for visualizing function types and their composition. The main change is a simple one: instead of writing a function signature as `a -> b`, the codomain `b` is written on a 3D plate, and the plate is orbited by the domain type `a`, all rendered on a 2D surface in orthographic perspective
+Orbit diagrams are a new notation for visualizing function application and composition at the type level. The main change is a simple one: instead of writing a function signature as `a -> b`, the codomain `b` is written on a 3D plate, and the plate is orbited by the domain type `a`, all rendered on a 2D surface in orthographic perspective
 
 Here is the Haskell representation of the type of the ```(.)``` function composition operator:
 
