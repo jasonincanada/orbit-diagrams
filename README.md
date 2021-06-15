@@ -55,7 +55,7 @@ The functor and monad instances for `s ->` are elegantly rendered in orbit diagr
 
 ### Misc
 
-I've sketched out a few more ideas below (the above images are included here as well):
+I've sketched out a few more ideas below:
 
   - [Function composition](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/composition.png)
   - [Monad instance (`bind`) for continuation-passing functor](https://raw.githubusercontent.com/jasonincanada/orbit-diagrams/main/diagrams/continuation-passing-style-monad-bind.png)
