@@ -51,3 +51,6 @@ The first row is the `overline` function from p. 2 of the following paper.  The 
 
 * Martín Escardó and Paulo Oliva. 2010. What sequential games, the tychonoff theorem and the double-negation shift have in common. In Proceedings of the third ACM SIGPLAN workshop on Mathematically structured functional programming (MSFP '10). Association for Computing Machinery, New York, NY, USA, 21–32. DOI: https://doi.org/10.1145/1863597.1863605
 
+### otimes.png
+
+This is the `otimes` function from p. 4 of the prior paper.  It's a bit non-obvious that the function `p` needs to be applied, and twice, with a different pair `(a,b)` each time. At present it needs to be inferred by the reader and it's a bit unclear
