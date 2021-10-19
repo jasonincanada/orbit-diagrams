@@ -54,3 +54,7 @@ The first row is the `overline` function from p. 2 of the following paper.  The 
 ### otimes.png
 
 This is the `otimes` function from p. 4 of the prior paper.  It's a bit non-obvious that the function `p` needs to be applied, and twice, with a different pair `(a,b)` each time. At present it needs to be inferred by the reader and it's a bit unclear
+
+### otimes2.png
+
+Same as above but with the `b -> r` lambda functions removed, and the  `(a,b)` argument on the bottom left curried
